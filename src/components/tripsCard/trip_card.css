@@ -1,0 +1,43 @@
+.bgimg-text{
+    position: relative;
+    left: 40px;
+    top: 360px;
+
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 94%;
+    letter-spacing: -0.04em;
+    color: #fffef4;
+}
+.props-wrapper{
+    white-space:nowrap;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 94%;
+    letter-spacing: -0.04em;
+    color: #181818;
+    
+
+}
+.tripcard{
+    width:1150px;
+    height:536px;
+    margin-bottom: 60px;
+    background-repeat: no-repeat,
+}
+.props{
+    display: inline-block; 
+    background-color: #fff59d;
+    width: fit-content;
+    border-radius: 100px;
+    padding: 15px 20px;
+}
+.icon{
+    padding-left:5px;
+    width: 16px;
+    height: 14px;
+}
