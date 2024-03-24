@@ -36,8 +36,3 @@ function Card (props){
     );
 }
 export default Card
-
-// самолет , паром, на автобусе
-
-// колличество людей- 
-// 
